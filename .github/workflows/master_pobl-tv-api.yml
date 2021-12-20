@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Pobl-Tv-Api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8507BBF169844187862ED244AC6BFB12 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6A65F21386244400AF2065BF069D37E0 }}
           package: .
